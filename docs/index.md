@@ -66,7 +66,7 @@
 | **Title** | Associate AI Engineer (Req. 38467) |
 | **Employer page** | [internaljobs.premisehealth.com/…/associate-ai-engineer](https://internaljobs.premisehealth.com/job/brentwood/associate-ai-engineer/27229/92130846032) |
 | **Date checked** | 2026-11-11 |
-| **Status** | Probably closed. The page said it was expected to close within 90 days of 02/25/2026. Kept as an example of the role type. |
+| **Status** | Closed. The page said it was expected to close within 90 days of 02/25/2026. Kept as an example of the role type. |
 | **Location** | Brentwood, TN or remote |
 | **Eligibility** | Bachelor's in CS, AI, EE or related; 0–2 years experience. Work authorization and travel: not stated. |
 | **Responsibilities** | 1. Support ML deployments and API development under senior guidance. 2. Help build AI/ML workflows for production applications. 3. Explain AI capabilities and limitations to stakeholders. |
@@ -93,14 +93,14 @@
 | What I'd need | Communication, fast end-to-end builds, travel | Domain knowledge, cloud platforms, reliability |
 | Fit with my current work | Strong. The word-game project is an end-to-end build. | Partial. No domain experience yet. |
 
-**Main direction for the portfolio:** Direction 2
+**Main direction for the portfolio:** Direction 2 because I’m more interested in healthcare focused AI
 **Next learning step:** Finish the word-game AI hint experiment and write up the evaluation
 
 ---
 
 ## Brand and layout
 
-**Voice words:** clear, curious, practical *(edit to fit you)*
+**Voice words:** clear, curious, practical 
 **Brand character:** a careful builder who shows their work
 
 **Two layout directions.** Both share the same intro, projects and main action ("View my code / Contact me").
@@ -113,7 +113,7 @@
 | Best for | Reader A (hiring manager who reads) | Reader B (recruiter who skims) |
 | Accessibility | Readable text size, keyboard-reachable links *(planned check)* | Same *(planned check)* |
 
-**Visual reference:** (https://webdesign.kernjosh.com/)
+**Visual reference:** (https://webdesign.kernjosh.com/), I like the abstract homepage theme idea of different objects, although I'm not sure how I could apply this
 
 **Leaning toward:** Direction A, because it matches the chosen reader.
 
