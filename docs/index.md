@@ -93,8 +93,8 @@
 | What I'd need | Communication, fast end-to-end builds, travel | Domain knowledge, cloud platforms, reliability |
 | Fit with my current work | Strong. The word-game project is an end-to-end build. | Partial. No domain experience yet. |
 
-**Main direction for the portfolio:** ____ (choose 1 or 2)
-**Next learning step:** ____ (for example: finish the word-game AI hint experiment and write up the evaluation, or complete one cloud deployment)
+**Main direction for the portfolio:** Direction 2
+**Next learning step:** Finish the word-game AI hint experiment and write up the evaluation
 
 ---
 
@@ -113,7 +113,7 @@
 | Best for | Reader A (hiring manager who reads) | Reader B (recruiter who skims) |
 | Accessibility | Readable text size, keyboard-reachable links *(planned check)* | Same *(planned check)* |
 
-**Visual reference:** ____ (link one portfolio or site you like, and name the one idea you adapted from it)
+**Visual reference:** (https://webdesign.kernjosh.com/)
 
 **Leaning toward:** Direction A, because it matches the chosen reader.
 
