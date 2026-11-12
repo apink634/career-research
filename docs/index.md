@@ -37,7 +37,7 @@
 |---|---|
 | **Title** | Forward Deployed Software Engineer, New Grad – US Government |
 | **Employer page** | [jobs.lever.co/palantir/d1ac83d0…](https://jobs.lever.co/palantir/d1ac83d0-e923-42a5-8e6d-58dd0cab25ca) |
-| **Date checked** | 2026-11-11 (AI-assisted; reconfirm: ____) |
+| **Date checked** | 2026-11-11 |
 | **Location** | New York, NY; on-site |
 | **Eligibility** | Requires an active US security clearance or eligibility to obtain one. Graduation date: not stated. Travel 25–50% preferred. |
 | **Responsibilities** | 1. Work directly with customers to find their most important problems and build solutions using their data. 2. Own projects end to end in small teams with little supervision. 3. Mix of architecture discussions, large-scale data wrangling, custom web app development and meetings with customer executives. |
@@ -49,15 +49,15 @@
 
 | | |
 |---|---|
-| **Title** | Member of Technical Staff – New Grad (2027 Start), with one team being Agent Engineering |
-| **Employer page** | Decagon careers page: ____ (paste the original link; I only found this through secondary listings) |
-| **Date checked** | Not confirmed on the original page yet |
-| **Location** | San Francisco or New York; in-person *(from secondary listing; not confirmed)* |
-| **Eligibility** | For graduates between December 2026 and July 2027 *(from secondary listing; not confirmed)*. Work authorization: not stated. |
-| **Responsibilities** | Not confirmed from the original posting. A secondary listing for Decagon's earlier Agent Software Engineer new-grad role mentioned designing AI agents for customer interactions, running evaluations on text and voice models, and integrating with large enterprise customers. ____ (replace with the original's wording) |
-| **Skill gap** | Evaluating AI model output in a systematic way. My word-game AI experiment is a small first step. |
+| **Title** | Member of Technical Staff – New Grad (2027 Start). New grads join one of four teams: Agent Engineering, Agent Orchestration, Enterprise Product or Infrastructure. |
+| **Employer page** | [jobs.ashbyhq.com/decagon/a8ff946f…](https://jobs.ashbyhq.com/decagon/a8ff946f-d6b1-4059-bc9f-fe6b11504f2f) (Decagon's own job board) |
+| **Date checked** | 2026-11-12 (original page)|
+| **Location** | San Francisco or New York City; on-site |
+| **Eligibility** | B.S. or higher in CS or a related field, graduating between December 2026 and July 2027. Work authorization: not stated. Pay: $185K base salary plus equity. |
+| **Responsibilities** | 1. Own work end to end on systems behind Decagon's AI agents. 2. On Agent Engineering: deploy AI agents for customers and collaborate directly with them on scalable solutions. 3. Dig into system failures across deep technology stacks. |
+| **Skill gap** | Asynchronous programming and TypeScript; I mostly use Python. The posting also asks for experience using AI coding agents in development, which I'm starting in this course. |
 
-**What's new vs. familiar:** "Member of Technical Staff" is a vague title, and the agent work is new. Integrations and testing are established software work.
+**What's new vs. familiar:** "Member of Technical Staff" is a vague title, and asking new grads for AI coding-agent experience is new. Debugging, Python and shipping features are established software work. The Agent Engineering team's customer collaboration overlaps with FDE work.
 
 ### 3. AI role in another industry (healthcare): Premise Health
 
@@ -65,7 +65,7 @@
 |---|---|
 | **Title** | Associate AI Engineer (Req. 38467) |
 | **Employer page** | [internaljobs.premisehealth.com/…/associate-ai-engineer](https://internaljobs.premisehealth.com/job/brentwood/associate-ai-engineer/27229/92130846032) |
-| **Date checked** | 2026-11-11 (AI-assisted; reconfirm: ____) |
+| **Date checked** | 2026-11-11 |
 | **Status** | Probably closed. The page said it was expected to close within 90 days of 02/25/2026. Kept as an example of the role type. |
 | **Location** | Brentwood, TN or remote |
 | **Eligibility** | Bachelor's in CS, AI, EE or related; 0–2 years experience. Work authorization and travel: not stated. |
@@ -138,8 +138,8 @@
 
 - **Tool:** Claude (Anthropic)
 - **Used for:** finding the three postings, summarizing their pages, and drafting this page's structure and comparison.
-- **Verification:** I opened each employer page myself and confirmed the title, eligibility and responsibilities. Results: ____
-- **Known gaps:** Decagon details came from secondary job listings, not Decagon's own page, until I confirm them.
+- **Verification:** I opened each employer page myself and confirmed the title, eligibility and responsibilities. Results: First two confirmed on the employer's own page on 2026-11-12; third link shows that job posting is closed
+- **Correction after peer review:** My first draft used secondary job listings for Decagon. After [issue #1](https://github.com/apink634/career-research/issues/1), I replaced them with Decagon's original posting. The earlier secondary summary had described a different, closed role (Agent Software Engineer, 2026 Start), so those responsibilities were removed.
 
 ---
 
@@ -147,7 +147,7 @@
 
 | Reviewer | Date | What they tried | Feedback | Issue | Decision |
 |---|---|---|---|---|---|
-| ____ | ____ | Opened a source, explained a choice, named an assumption or confusing part | ____ | #__ | implement / investigate / defer / decline, because ____ |
+| dhruvi0805 | 2026-11-12 | Read the employer sources and AI assistance section | Decagon still relied on secondary sources, and verification results were blank | [#1](https://github.com/apink634/career-research/issues/1) | **Implement**, because original sources are required. Replaced Decagon info with the original posting and filled in verification. Waiting for reviewer to recheck before closing. |
 
 ---
 
