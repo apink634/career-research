@@ -1,9 +1,12 @@
 # Career Research Site — AI Roles and My Portfolio Plan
 
-**IS218-003 · Portfolio · Current stage: Review 1 (Plan)**
+**IS218-003 · Portfolio · Current stage: Review 2 (First working slice)**
 
 - Repository: https://github.com/apink634/career-research
 - This site: https://apink634.github.io/career-research/
+- **Portfolio draft, Layout A (Builder's notebook):** [portfolio-a.md](portfolio-a.md)
+- **Portfolio draft, Layout B (Project dashboard):** [portfolio-b.md](portfolio-b.md)
+- **Résumé draft:** [resume.md](resume.md)
 - My programming research site (Word Game): https://apink634.github.io/word-game/
 
 > This is a research and planning site, not a finished portfolio. Checks are marked **planned**, **attempted** or **observed**.
@@ -151,6 +154,36 @@
 
 ---
 
-## Next step
+## Review 1 next step (done)
 
-Choose the main direction, confirm the Decagon posting on the original page, and pick a visual reference before the Build stage.
+~~Choose the main direction, confirm the Decagon posting on the original page, and pick a visual reference before the Build stage.~~ Done: Direction 2, Decagon confirmed (#1), visual reference added.
+
+---
+
+## 2 · First working slice (Review 2)
+
+**What's built:** one readable portfolio draft shown in two lightweight layouts with the same content: [Layout A, Builder's notebook](portfolio-a.md) and [Layout B, Project dashboard](portfolio-b.md). Both have the same intro, three case studies (Bench & Bolt, Word Game, career research), a [résumé draft](resume.md) and my GitHub and LinkedIn links.
+
+**Labeled as unfinished:** Bench & Bolt web app (in progress), Word Game (plan stage, no code). The résumé is complete but still a draft; phone and address are left off the public version on purpose.
+
+**Decision:** I'll keep both layouts until a reader tries them. I still lean toward A for my chosen reader (technical hiring manager), but B may work better for a recruiter who skims.
+
+### Story checks
+
+| Story | Check | Status |
+|---|---|---|
+| 1 · See what I build in 10 seconds | Top of both layouts names my focus and links the featured project | **observed** (read in the Markdown source) |
+| 2 · Open the code | Each project links its GitHub repository | **observed** (automated link check, see below) |
+| 3 · See how I made decisions | Featured project shows a decision, the alternative and the test | **observed** in Layout A; Layout B shows it in one table row |
+| 4 · Keyboard reaches every link | Tab through the published page with a visible focus outline | **not run** |
+| 5 · Contact link on first screen | GitHub, LinkedIn and résumé links appear above the first project | **observed** (source); not yet checked on the published page |
+
+**Automated check:** a script confirmed both layouts and the résumé contain GitHub, LinkedIn and résumé links, and that every relative link points to a file in `docs/`. Checked: whether external links load, and how pages look on GitHub Pages Checked 11/19/26
+
+**Reader check:** **not run.** Next: ask a classmate to find my code, résumé and LinkedIn on each layout without help.
+
+### Changed / Checked / Next
+
+- **Changed:** Added two portfolio layouts with the same content, a full résumé draft and profile links.
+- **Checked:** Link-presence and relative-link script passed; keyboard and reader checks not run.
+- **Next:** Classmate tries both layouts, then pick one and turn a past project (GoGaia) into a full case study.
