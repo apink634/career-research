@@ -216,15 +216,16 @@ I chose **Layout A, the builder's notebook**. My reader is a technical hiring ma
 
 | Check | Result | Status |
 |---|---|---|
-| Every relative link resolves to a file in `docs/` (script) | | see below |
-| Each case study links code or a live app | | see below |
-| Mobile: page readable at phone width, no sideways scrolling | | not run yet |
-| Keyboard: Tab reaches every link in order with a visible focus outline | | not run yet |
-| External links open (GitHub, LinkedIn, live app, PRs) | | not run yet |
+| Internal links, pages and in-page anchors (script run in the browser on the published page) | Résumé, record and Word Game pages return 200; all 8 anchors exist | **observed** 2026-11-25 |
+| GitHub links (4 repos, Bench & Bolt PRs #2–#5, SPEC) | All exist (checked with `git ls-remote`). The two issue #1 links weren't checked automatically. | **observed** 2026-11-25 |
+| Live app and LinkedIn links | rag.anncarlos.me and LinkedIn respond from the browser | **observed** 2026-11-25 |
+| Mobile: 375 px phone width | No sideways scrolling (page width = screen width), 16 px body text, links wrap | **observed** 2026-11-25 |
+| Keyboard: Tab through the page | Focus moves in page order (title → Projects → Résumé …) with a visible orange outline; no `tabindex` changes the order. The outline is thin. | **observed** 2026-11-25 |
+| Site title shows my name instead of the repo name | Added `docs/_config.yml` with `title: Ann Carlos` | changed; recheck after publish |
 | Classmate finds my code, résumé and LinkedIn without help | | not run yet |
 
 ### Changed / Checked / Next
 
-- **Changed:** Chose Layout A; corrected case studies to show my actual contribution; featured the live RAG app; updated the résumé.
-- **Checked:** (filled in after checks)
+- **Changed:** Chose Layout A; corrected case studies to show my actual contribution; featured the live RAG app; updated the résumé; set the site title to my name.
+- **Checked:** Links, anchors, GitHub PRs, mobile width and keyboard focus on the published page; classmate reader check not run.
 - **Next:** Classmate reader check; write the GoGaia case study; build my Bench & Bolt intake form.
