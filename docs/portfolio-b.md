@@ -1,5 +1,7 @@
 # Ann Carlos · Projects
 
+> **Not chosen (Review 2 option, kept for the record).** For Review 3 I chose [Layout A, the builder's notebook](portfolio-a.md). This page is not kept up to date.
+
 **Portfolio draft · Layout B** · [Switch to Layout A (notebook)](portfolio-a.md) · [Project record](index.md)
 
 > **Draft for IS218 Review 2.** Same content as Layout A, laid out to scan quickly. Anything unfinished is labeled.
