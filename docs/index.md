@@ -1,11 +1,11 @@
 # Career Research Site — AI Roles and My Portfolio Plan
 
-**IS218-003 · Portfolio · Current stage: Review 2 (First working slice)**
+**IS218-003 · Portfolio · Current stage: Review 3 (Integrated build)**
 
 - Repository: https://github.com/apink634/career-research
 - This site: https://apink634.github.io/career-research/
-- **Portfolio draft, Layout A (Builder's notebook):** [portfolio-a.md](portfolio-a.md)
-- **Portfolio draft, Layout B (Project dashboard):** [portfolio-b.md](portfolio-b.md)
+- **Portfolio (chosen presentation, Layout A):** [portfolio-a.md](portfolio-a.md)
+- Layout B (not chosen, kept for the record): [portfolio-b.md](portfolio-b.md)
 - **Résumé draft:** [resume.md](resume.md)
 - My programming research site (Word Game): https://apink634.github.io/word-game/
 
@@ -187,3 +187,44 @@
 - **Changed:** Added two portfolio layouts with the same content, a full résumé draft and profile links.
 - **Checked:** Link-presence and relative-link script passed; keyboard and reader checks not run.
 - **Next:** Classmate tries both layouts, then pick one and turn a past project (GoGaia) into a full case study.
+
+---
+
+## 3 · Integrated build (Review 3)
+
+**Portfolio:** https://apink634.github.io/career-research/portfolio-a · [Résumé](resume.md)
+
+### Decision: one presentation
+
+I chose **Layout A, the builder's notebook**. My reader is a technical hiring manager who opens one project and reads how I made decisions, and that's what Layout A shows. Layout B (the dashboard) was faster to skim but hid the decisions. It's kept only as a labeled Review 2 record.
+
+### Audience, brand and persuasion
+
+- **Audience:** a technical hiring manager on an AI team, ideally in healthcare (my Review 1 direction).
+- **Brand:** "a careful builder who shows her work," in a clear, curious, practical voice.
+- **Persuasion:** evidence instead of claims. Each case study links the code and a check I actually ran, says what I did versus teammates or AI, and labels what isn't built. The featured project is the diabetes RAG app, because it's live, it's in healthcare, and it has checks a reader can open.
+- **No invented endorsements:** there are no testimonials or quotes from other people. Awards appear only as facts from my résumé.
+
+### What changed since Review 2
+
+- Featured the diabetes RAG app, since it's working and hosted (built in IS373, linked to its own record).
+- **Corrected Bench & Bolt:** Review 2 said "what I own: the intake form." That's my planned slice, but it isn't built. The page now lists what I actually did (repo, record, CI, rules and tests, PRs #3 and #5), what Shree and Dhruvi did, and labels the intake form as planned.
+- Updated Word Game to the plan/SPEC checkpoint, with the hint change from peer review and the first planned check.
+- Résumé: added the RAG app and corrected the Bench & Bolt bullets the same way.
+
+### Checks
+
+| Check | Result | Status |
+|---|---|---|
+| Every relative link resolves to a file in `docs/` (script) | | see below |
+| Each case study links code or a live app | | see below |
+| Mobile: page readable at phone width, no sideways scrolling | | not run yet |
+| Keyboard: Tab reaches every link in order with a visible focus outline | | not run yet |
+| External links open (GitHub, LinkedIn, live app, PRs) | | not run yet |
+| Classmate finds my code, résumé and LinkedIn without help | | not run yet |
+
+### Changed / Checked / Next
+
+- **Changed:** Chose Layout A; corrected case studies to show my actual contribution; featured the live RAG app; updated the résumé.
+- **Checked:** (filled in after checks)
+- **Next:** Classmate reader check; write the GoGaia case study; build my Bench & Bolt intake form.

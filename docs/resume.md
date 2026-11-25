@@ -1,6 +1,6 @@
 # Ann Carlos · Résumé draft
 
-[Portfolio Layout A](portfolio-a.md) · [Portfolio Layout B](portfolio-b.md)
+[Portfolio](portfolio-a.md)
 
 > **Draft.** This is the public version, so my phone number and home address are left out on purpose. Contact me through LinkedIn or email.
 
@@ -40,9 +40,13 @@ B.S. in Human-Computer Interaction · Albert Dorman Honors Scholar · APO (commu
 
 ## Projects
 
-**Bench & Bolt repair inquiry queue** · IS218 team project · Python, pytest, GitHub Actions · *in progress*
-- Own the intake form and its tests for a repair-shop queue (simulated customer)
-- Status rules live in one transition table covered by 18 passing unit tests; every change goes through cross-review and CI
+**Diabetes Q&A from MedlinePlus (RAG app)** · individual · Python, FastAPI, embeddings, Groq, Docker · [live](https://rag.anncarlos.me/rag)
+- Imports public-domain MedlinePlus diabetes summaries and answers questions with citations to the exact passages, using vector search plus a fact graph
+- Hosted on my own server with HTTPS; checked 10/10 graph facts against sources and tested emergency and not-covered questions
+
+**Bench & Bolt repair inquiry queue** · IS218 team of 3 · Python, pytest, GitHub Actions · *in progress*
+- Set up the team repository, project record and CI; wrote the core status rules as one transition table with tests
+- Intake form (my slice) planned; teammates own storage and the queue page
 
 **GoGaia** · Front-End Developer · GirlHacks Hackathon 2025
 - Built the front end of a web app that uses AI to identify trash and guide users on proper disposal
